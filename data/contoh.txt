@@ -1,0 +1,1 @@
+"Halo! Ini adalah proyek audio book dan text to speech sederhana menggunakan Python. Selamat mendengarkan!" > data/contoh.txt
